@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b68c02-cc10-4f2e-aa37-0379b73d1041" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/frontend/public/index.html" afterDir="false" />
@@ -120,7 +119,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -223,7 +222,7 @@
       <workItem from="1669611671312" duration="1200000" />
       <workItem from="1669878626476" duration="594000" />
       <workItem from="1671013088880" duration="2530000" />
-      <workItem from="1671072682104" duration="1325000" />
+      <workItem from="1671072682104" duration="7204000" />
     </task>
     <servers />
   </component>
