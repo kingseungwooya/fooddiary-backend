@@ -7,10 +7,12 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 @Entity
 @Getter
 @AllArgsConstructor
+@NoArgsConstructor
 public class Food {
 
     @Id @GeneratedValue(strategy = GenerationType.IDENTITY)
@@ -25,11 +27,5 @@ public class Food {
     private String fat;
     private String totalKcal;
 
-    public Food(String foodName, String carbohydrate, String protein, String fat, String totalKcal) {
-        this.foodName = foodName;
-        this.carbohydrate = carbohydrate;
-        this.protein = protein;
-        this.fat = fat;
-        this.totalKcal = totalKcal;
-    }
+
 }
